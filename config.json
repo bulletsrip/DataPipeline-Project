@@ -1,0 +1,21 @@
+{
+    "data_sources":{
+        "host":"localhost",
+        "db":"data_sources",
+        "user":"postgres",
+        "pwd":"123456",
+        "port":5432
+    },
+    
+    "data_warehouse":{
+        "host":"localhost",
+        "db":"data_warehouse",
+        "user":"postgres",
+        "pwd":"123456",
+        "port":5432
+    },
+
+    "spark":{
+        "ip":"spark://DESKTOP-B7ON7HS.localdomain:7077"
+    }
+}

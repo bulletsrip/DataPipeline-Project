@@ -1,0 +1,12 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": ["https://s3.amazonaws.com/de8-datalake/processed_data/"]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "containsHeader": "true"
+    }
+}
